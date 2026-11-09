@@ -1,0 +1,14 @@
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.AssemblyInfoInputs.cache
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.AssemblyInfo.cs
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\bin\Debug\net10.0\Hafta2.exe
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\bin\Debug\net10.0\Hafta2.deps.json
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\bin\Debug\net10.0\Hafta2.runtimeconfig.json
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\bin\Debug\net10.0\Hafta2.dll
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\bin\Debug\net10.0\Hafta2.pdb
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.dll
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\refint\Hafta2.dll
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.pdb
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\Hafta2.genruntimeconfig.cache
+C:\Users\salih\Desktop\Ders Dosyaları\NYP\Calismalar\Hafta2\obj\Debug\net10.0\ref\Hafta2.dll

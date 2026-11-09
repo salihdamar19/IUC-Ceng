@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b9216a0211a4f808",
+    "type": "split",
+    "children": [
+      {
+        "id": "d653b210254e05b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e79c426a68c95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/00 Vize Planı.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Vize Planı"
+            }
+          },
+          {
+            "id": "ce161425ceb357c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/01 Sayma ve Kümeler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Sayma ve Kümeler"
+            }
+          },
+          {
+            "id": "73a8ae24c250bcd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/02 Temel Olasılık Kuralları.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Temel Olasılık Kuralları"
+            }
+          },
+          {
+            "id": "cf3d8480c5bdcbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/03 Koşullu Olasılık ve Bayes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 Koşullu Olasılık ve Bayes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4504f4ba3c0647",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd70e444712512d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71bbb1dfc27dde42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "a49a9bbbc98867c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "ce142162902820f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "75fd455866767121",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec150eb87a950cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "304c10900e109a83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hoş geldiniz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Geri Bağlantılar"
+            }
+          },
+          {
+            "id": "45a0425227ce7e40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hoş geldiniz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Giden bağlantılar"
+            }
+          },
+          {
+            "id": "14db358a591acb0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "2b30acf24e939651",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tüm özellikler"
+            }
+          },
+          {
+            "id": "1893c7b49df93bd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hoş geldiniz.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Anahat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "bases:Yeni taban oluştur": false
+    }
+  },
+  "active": "cf3d8480c5bdcbc1",
+  "lastOpenFiles": [
+    "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/02 Temel Olasılık Kuralları.md",
+    "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/03 Koşullu Olasılık ve Bayes.md",
+    "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/00 Vize Planı.md",
+    "file:C:/Users/salih/Desktop/Ders Dosyaları/Olasilik Teorusu ve Istatistik/01 Sayma ve Kümeler.md",
+    "Hoş geldiniz.md",
+    "Olasilik Teorisi ve Istatistik.md"
+  ]
+}
